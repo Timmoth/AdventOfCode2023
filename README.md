@@ -5,3 +5,5 @@ This year I wanted to take the Advent Of Code challenge as an opportunity to dus
 | --- | --- |
 | [01](day01/) | BASH |
 | [02](day02/) |BASH |
+| [03](day03/) |Python |
+
