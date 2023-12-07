@@ -10,3 +10,4 @@ This year I wanted to take the Advent Of Code challenge as an opportunity to dus
 | [04](day04/) | BASH     |
 | [05](day05/) | Python   |
 | [06](day06/) | Python   |
+| [07](day07/) | Python   |
