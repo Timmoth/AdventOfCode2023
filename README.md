@@ -12,3 +12,4 @@ This year I wanted to take the Advent Of Code challenge as an opportunity to dus
 | [06](day06/) | Python   |
 | [07](day07/) | Python   |
 | [08](day08/) | Python   |
+| [09](day09/) | Python   |
