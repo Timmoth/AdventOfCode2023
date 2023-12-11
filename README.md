@@ -14,3 +14,4 @@ This year I wanted to take the Advent Of Code challenge as an opportunity to dus
 | [08](day08/) | Python   |
 | [09](day09/) | Java     |
 | [10](day10/) | Java     |
+| [11](day11/) | Java     |
