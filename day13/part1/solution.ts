@@ -20,17 +20,17 @@ for (const patternInput of patternInputs) {
   const rowNumbers = lines.map((line) => parseInt(line, 2));
   const colNumbers = transposeArray(lines).map((line) => parseInt(line, 2));
 
-  var rowSymmetryIndex = findPartialSymmetry(rowNumbers);
+  var rowSymmetryIndex = findPointOfSymmetry(rowNumbers);
   if (rowSymmetryIndex >= 0) {
     sum += 100 * rowSymmetryIndex;
   } else {
-    var colSymmetryIndex = findPartialSymmetry(colNumbers);
+    var colSymmetryIndex = findPointOfSymmetry(colNumbers);
     sum += colSymmetryIndex;
   }
 }
 console.log(sum);
 
-function findPartialSymmetry(arr: number[]): number {
+function findPointOfSymmetry(arr: number[]): number {
   for (var i = 0; i < arr.length - 1; i++) {
     var left = i;
     var right = i + 1;
