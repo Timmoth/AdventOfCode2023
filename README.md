@@ -17,3 +17,4 @@ This year I wanted to take the Advent Of Code challenge as an opportunity to dus
 | [11](day11/) | Java       |
 | [12](day12/) | Typescript |
 | [13](day13/) | Typescript |
+| [14](day14/) | Typescript |
