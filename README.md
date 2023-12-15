@@ -18,3 +18,4 @@ This year I wanted to take the Advent Of Code challenge as an opportunity to dus
 | [12](day12/) | Typescript |
 | [13](day13/) | Typescript |
 | [14](day14/) | Typescript |
+| [15](day15/) | Typescript |
